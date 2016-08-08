@@ -1,0 +1,5 @@
+RemoteSystemsTempFiles/**
+Servers/**
+spring-boot-security-oauth2-minimal/**
+.metadata/**
+.recommenders/**
